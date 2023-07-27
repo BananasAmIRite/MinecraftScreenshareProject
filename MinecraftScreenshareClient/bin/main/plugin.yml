@@ -1,0 +1,10 @@
+name: MinecraftScreenshareClient
+version: '${version}'
+main: org.bananasamirite.minecraftscreenshareclient.MinecraftScreenshareClient
+api-version: 1.18
+
+commands:
+  start:
+    description: "starts the screenshare"
+  stop:
+    description: "stops the screenshare"
